@@ -10598,5 +10598,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "https://hl7.cz/fhir/img-order/1.0.0"
     }]
+  },
+  {
+    "name" : "Frenda Flc ig for Wof-Connect",
+    "category" : "FLC",
+    "npm-name" : "servicewell.fhir.frenda-wof-connect-flc",
+    "description" : null,
+    "authority" : "??",
+    "country" : "??",
+    "history" : "https://canonical.fhir.link/servicewell/frenda-wof-connect-flc/history.html",
+    "language" : ["en"],
+    "canonical" : "https://canonical.fhir.link/servicewell/frenda-wof-connect-flc",
+    "ci-build" : "http://build.fhir.org/ig/servicewell/servicewell.fhir.se.frenda-wof-connect-flc",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Pre-Release Informative",
+      "ig-version" : "0.1.2",
+      "package" : "servicewell.fhir.frenda-wof-connect-flc#0.1.2",
+      "fhir-version" : ["4.0.1"],
+      "url" : "https://canonical.fhir.link/servicewell/frenda-wof-connect-flc/0.1.2"
+    }]
   }]
 }
